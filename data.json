@@ -1,0 +1,24 @@
+{
+	"itineraries": [
+			{
+				"title": "China 2 day",
+				"description": "Going around Guangzhong"
+			},
+			{
+				"title": "Texas Spring break",
+				"description": "Travel from Austin to Sante Fe"
+			},
+			{
+				"title": "NYC Winter Vacation",
+				"description": "5 days traveling around the big apple"
+			},
+			{
+				"title": "LA daytrip",
+				"description": "Convention Center, Chinatown"
+			},
+			{
+				"title": "Mexico weekend 1/2",
+				"description": "Guadalajara, Mexico City, Matzalan"
+			}
+	]
+}
